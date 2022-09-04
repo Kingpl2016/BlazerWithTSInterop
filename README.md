@@ -1,1 +1,3 @@
 # BlazerWithTSInterop
+
+这是一个Blazer与typescript 调用的例子
